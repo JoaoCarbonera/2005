@@ -14,3 +14,4 @@ modeloapp/__pycache__/*
 /apps/orders/migrations/*
 /apps/orderitem/__pycache__/*
 /apps/orderitem/migrations/*
+/media/*
