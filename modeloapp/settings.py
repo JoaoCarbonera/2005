@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django_filters',
     'rest_framework',
     'categories.apps.CategoriesConfig',
     'products.apps.ProductsConfig',
@@ -47,6 +48,7 @@ INSTALLED_APPS = [
     'clients.apps.ClientsConfig',
     'orders.apps.OrdersConfig', 
     'orderitem.apps.OrderitemConfig',
+    
 ]
 
 MIDDLEWARE = [
